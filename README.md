@@ -7,3 +7,10 @@ VVB website for kannan construction
 3. All data's form from dynamically
 4. Need to add the admin controll and maintain the databse data's from here.
 5. Need to make a perfect design.
+
+
+Table Details:
+tblAboutPanel
+
+
+Stored Procedure Deta
