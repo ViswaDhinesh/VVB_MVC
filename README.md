@@ -12,8 +12,9 @@ VVB website for kannan construction
 Table Details:
 -------------------
 1. About:
-tblAboutPanel
-tblAboutHyperPanel
+**********
+a) tblAboutPanel
+b) tblAboutHyperPanel
 
 
 Stored Procedure Deta
